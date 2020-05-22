@@ -1,4 +1,4 @@
-# News-App-UI-Using-SwiftUI
+# News Blog App 
 Implementation of News App Homescreen design using SwiftUI
 
 - Design credits 👉 [News blog Application by Raghunath RV](https://uplabs.com/posts/news-blog-application/)
